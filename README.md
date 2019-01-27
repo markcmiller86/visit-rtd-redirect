@@ -1,2 +1,2 @@
-# visit-rtd-redirect
-Just to help red-direct old VisIt user manual url
+# VisIt Documentation Has Moved
+https://visit-sphinx-github-user-manual.readthedocs.io/en/develop/
